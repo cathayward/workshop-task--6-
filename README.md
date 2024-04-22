@@ -2,7 +2,7 @@
 
 ### notes:
 
-website:
+website: https://cathayward.github.io/workshop-task--6-/
 
 - I really struggled with coming up with a creative way to utilise this function but eventually settled on utilising ideas brought up in the workshop, and then taking the inputs and scrambling the output even further
 - I didn’t want the original text to remain and instead only wanted the finished output to be shown on screen but managed to do this through some trial and error, by taking out the 0 value for the responses, only leaving the second output.
